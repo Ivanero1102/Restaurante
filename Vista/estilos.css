@@ -1,0 +1,24 @@
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 2px solid black;
+}
+
+th{
+    background-color: lightblue;
+}
+
+div{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
